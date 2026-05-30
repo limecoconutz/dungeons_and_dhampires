@@ -6,11 +6,7 @@ In the Principality of Veltharyn, your bloodline is your biography. The sire hou
 
 The six bloodlines below each correspond to one of the great sire houses of the Crimson Council. A player may also choose to be a _Thornborn_ — a dhampire of unknown or mixed bloodline — for whom the table below represents fragments, instincts, and inherited uncertainty rather than clean inheritance.
 
-> "The houses did not create dhampires to have children. They created us to have tools. The bloodline is a handle. Remember that before you learn to love it."— Sable, Thornborn, formerly of the Duskport Resistance
-
 ## The Six Houses and Their Gifts
-
-🌑
 
 House Umbrath
 
@@ -28,8 +24,6 @@ WeaknessBright light causes mounting penalties; sunstone weapons deal radiant da
 
 House ReputationFeared. The oldest name. Other houses show deference they don't entirely feel.
 
-🜄
-
 House Lacrimae
 
 The Mind-Broken
@@ -45,8 +39,6 @@ The Hunger Manifests AsIntrusive access to others' memories; difficulty distingu
 WeaknessLoud emotional environments cause psychic bleed; crowds are overwhelming
 
 House ReputationDistrusted by all other houses, indispensable to all of them. They know it.
-
-⚔️
 
 House Ferrum Nox
 
@@ -64,8 +56,6 @@ WeaknessSilver disrupts the calcification; silver weapons ignore hardened skin b
 
 House ReputationRespected. Used. Often dead before forty. The house produces new ones quickly.
 
-🌊
-
 House Caelith
 
 The Tide-Touched
@@ -82,8 +72,6 @@ WeaknessStasis magic and preservation spells cause physical pain; antimagic fiel
 
 House ReputationConsidered philosophical to the point of uselessness by other houses. They endure.
 
-🔥
-
 House Morden
 
 The Ashwalkers
@@ -99,8 +87,6 @@ The Hunger Manifests AsFalse warmth; the Hunger feels like affection until it be
 WeaknessCold damage bypasses resistances; frozen environments slow bloodline abilities by half
 
 House ReputationViewed as the weakest house. They are working on changing this. Quietly, carefully.
-
-⚗️
 
 House Vexillum
 

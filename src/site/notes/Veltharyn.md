@@ -14,19 +14,19 @@ Veltharyn occupies a peninsula pressed between the Ashen Mountains to the north,
 
 The climate is perpetually overcast — not supernatural in origin (though many mortals believe so), but a product of the Ashen Mountains' rain shadow colliding with warm coastal air. For the vampire nobility, this is an extraordinary gift. Direct sunlight is a rarity in Veltharyn. Most seasons see no more than twelve sun-hours per week.
 
-⚫ The Obsidian Spires
+The Obsidian Spires
 
 The northern highlands, home to the great noble keeps. Seven fortresses of black volcanic stone rise from the ridge like broken teeth. Each belongs to one of the sire houses. The roads between them are maintained but unlit — no torches, no lanterns. The Spires operate on the assumption that only those with night-sight travel at speed.
 
-🌫️ The Ashen Moors
+The Ashen Moors
 
 A vast central plateau of peat bog and silver-birch forest. Nominally uncontrolled territory, the Moors are where the mortal resistance operates — and where old things sleep beneath the waterlogged earth. DMs should treat the Moors as the campaign's wilderness, a place where none of the empire's rules apply and the ecology is alien.
 
-🏙️ Duskport, the Mortal Quarter
+ Duskport, the Mortal Quarter
 
 The empire's only functioning port city, Duskport is mortal-administered by necessity — the nobles have no interest in shipping manifests. It is loud, grimy, alive in a way nowhere else in Veltharyn is, and absolutely riddled with spies from every faction. The black market here trades in blood vials, sunstones, and forged bloodline papers.
 
-📚 The Sunken Library
+The Sunken Library
 
 Once the great university of the mortal confederation, now partially submerged after the Greyvein was redirected during the Compact Wars. The upper floors remain accessible and are technically neutral ground. The lower floors breathe, according to the few who have returned from them.
 
@@ -39,8 +39,6 @@ Pre-Compact Veltharyn had no unified name. Historians within the empire — all 
 ### The Compact Era (Year 0–180)
 
 The Crimson Compact is the foundational legal document of Veltharyn — a treaty signed between the six vampire sire houses (under duress, in several cases) and the mortal population (under significantly more duress). The terms were simple: mortals would provide blood tithe and labor; the houses would provide order and protection from the mountain threats that had plagued the region for decades. The arrangement was never described as coercion in official records. It was called a "covenant of mutual flourishing."
-
-> "The Compact gave us peace. The kind of peace a fly enjoys when the spider stops moving."— Author unknown; graffiti found on Duskport's harbor wall, repeatedly painted over
 
 ### The Current Age: Year 312 and the Fracture
 
